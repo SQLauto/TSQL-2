@@ -1,0 +1,9 @@
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\bin\Debug\PerformanceV3.dacpac
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\bin\Debug\PerformanceV3.dll
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\bin\Debug\PerformanceV3.pdb
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\obj\Debug\Model.xml
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\obj\Debug\refactor.xml
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\obj\Debug\postdeploy.sql
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\obj\Debug\predeploy.sql
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\obj\Debug\PerformanceV3.dll
+C:\Users\msmith\Projects\TSQL\PerformanceV3\PerformanceV3\obj\Debug\PerformanceV3.pdb

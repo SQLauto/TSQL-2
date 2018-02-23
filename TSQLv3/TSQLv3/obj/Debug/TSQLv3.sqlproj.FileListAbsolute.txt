@@ -1,0 +1,9 @@
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\bin\Debug\TSQLv3.dacpac
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\bin\Debug\TSQLv3.dll
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\bin\Debug\TSQLv3.pdb
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\obj\Debug\Model.xml
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\obj\Debug\refactor.xml
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\obj\Debug\postdeploy.sql
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\obj\Debug\predeploy.sql
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\obj\Debug\TSQLv3.dll
+C:\Users\msmith\Projects\TSQL\TSQLv3\TSQLv3\obj\Debug\TSQLv3.pdb

@@ -1,0 +1,9 @@
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\bin\Debug\TSQL2012.dacpac
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\bin\Debug\TSQL2012.dll
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\bin\Debug\TSQL2012.pdb
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\obj\Debug\Model.xml
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\obj\Debug\refactor.xml
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\obj\Debug\postdeploy.sql
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\obj\Debug\predeploy.sql
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\obj\Debug\TSQL2012.dll
+C:\Users\msmith\Projects\TSQL\TSQL2012\TSQL2012\obj\Debug\TSQL2012.pdb
